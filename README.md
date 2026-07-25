@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Geyser</h1>
 <h3 align="center">A passionate full stack developer from Congo DR</h3>
 
-- 👨‍💻 All of my projects are available at [geyserportfolio.gt.tc](geyserportfolio.gt.tc)
+-  All of my projects are available at [geyserportfolio.gt.tc](geyserportfolio.gt.tc)
 
-- 📫 How to reach me **geyserstorne@gmail.com**
+-  How to reach me **geyserstorne@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
