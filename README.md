@@ -10,7 +10,6 @@ I love solving problems, optimizing workflows, and contributing to impactful pro
 
 ###  Portfolio & Contact
 -  Explore my projects: [geyserportfolio.gt.tc](https://geyserportfolio.gt.tc)  
--  Reach me at: **geyserstorne@gmail.com**  
 
 ---
 
